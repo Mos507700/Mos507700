@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Mos507700/Mos507700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mos507700/Mosharzrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
